@@ -1,8 +1,6 @@
-# Hello World 👋
+# Hello World, I'm Murilo 👋
 
 <h2>
-  Hi! I'm Murilo
-  &nbsp;
   <span>
     <a href="https://www.linkedin.com/in/murilo-castro-a61a9019b/">
       <img
