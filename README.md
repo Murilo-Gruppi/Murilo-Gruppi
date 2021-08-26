@@ -16,7 +16,7 @@
         align="center"
       />
     </a>
-    <a href="mailto:murilogruppi.castro@gmail.com">
+    <a href="mailto:murilo.gruppidecastro@gmail.com">
       <img
         alt="Email"
         src="https://img.shields.io/badge/-Email-d14836?style=flat-square&logo=gmail&logoColor=white"
