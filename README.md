@@ -26,8 +26,8 @@
   </span>
 </h2>
 
-Software Developer at [Smartiks](https://www.smartiks.com/) | Project Director at [Codex](https://codexjr.com.br/) <br />
-Undergraduate Computer Science Student at [UFCG](https://portal.ufcg.edu.br)
+💻 Software Developer at [Smartiks](https://www.smartiks.com/) | 💡 Project Director at [Codex](https://codexjr.com.br/) <br />
+👨🏻‍🎓 Undergraduate Computer Science Student at [UFCG](https://portal.ufcg.edu.br)
 
 - 😄 I'm passionate about technology
 - 🌱 I'm constantly learning
