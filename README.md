@@ -37,6 +37,15 @@
 #### ✨ My Stack
 
 <p>
+  <a href="https://www.typescriptlang.org/">
+    <img
+      src=".github/icons/typescript.svg"
+      alt="TypeScript"
+      title="TypeScript"
+      height="20px"
+    />
+  </a>
+  &nbsp;
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
     <img
       src=".github/icons/js.svg"
