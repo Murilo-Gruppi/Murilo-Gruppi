@@ -2,7 +2,7 @@
 
 <h2>
   <span>
-    <a href="https://www.linkedin.com/in/murilo-castro-a61a9019b/">
+    <a href="https://www.linkedin.com/in/murilo-gruppi/">
       <img
         alt="LinkedIn"
         src="https://img.shields.io/static/v1?label=&message=LinkedIn&color=2867B2&style=flat-square&logo=linkedin"
