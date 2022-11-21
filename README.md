@@ -26,7 +26,7 @@
   </span>
 </h2>
 
-💻 Software Developer at [Smartiks](https://www.smartiks.com/) <br />
+💻 Software Engineer at [Nexos Digital](http://www.gsupgroup.com) <br />
 👨🏻‍🎓 Undergraduate Computer Science Student at [UFCG](https://portal.ufcg.edu.br)
 
 - 😄 I'm passionate about technology
