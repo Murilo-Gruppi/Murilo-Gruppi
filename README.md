@@ -26,8 +26,7 @@
   </span>
 </h2>
 
-💻 Software Engineer at [Nexos Digital](http://www.gsupgroup.com) <br />
-👨🏻‍🎓 Undergraduate Computer Science Student at [UFCG](https://portal.ufcg.edu.br)
+💻 Software Engineer at [Usecase Inovação](https://ucsbr.com/) <br />
 
 - 😄 I'm passionate about technology
 - 🌱 I'm constantly learning
