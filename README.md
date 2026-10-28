@@ -26,7 +26,7 @@
   </span>
 </h2>
 
-💻 Software Engineer at [Usecase Inovação](https://ucsbr.com/) <br />
+💻 Software Engineer at [Inter](https://inter.co/) <br />
 
 - 😄 I'm passionate about technology
 - 🌱 I'm constantly learning
